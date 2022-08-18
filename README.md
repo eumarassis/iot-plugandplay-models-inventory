@@ -1,2 +1,6 @@
-# iot-plugandplay-models-inventory
-Python script to list all PnP models and inser their details to an SQLite database
+# Azure IoT Plug and Play Models - Models to SQLite
+
+This repository provides Python scripts to list all models from [Azure/iot-plugandplay-models-tools](https://github.com/Azure/iot-plugandplay-models) and insert their details into a SQLite database for further data exploration.
+
+Related tools, samples, and specs can be found in the [Azure/iot-plugandplay-models-tools](https://github.com/Azure/iot-plugandplay-models) repo. 
+
