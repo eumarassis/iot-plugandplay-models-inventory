@@ -4,3 +4,7 @@ This repository provides Python scripts to list all models from [Azure/iot-pluga
 
 Related tools, samples, and specs can be found in the [Azure/iot-plugandplay-models-tools](https://github.com/Azure/iot-plugandplay-models) repo. 
 
+---
+
+**MICROSOFT MAKES NO WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, AS TO THE INFORMATION IN THIS REPOSITORY.**
+
